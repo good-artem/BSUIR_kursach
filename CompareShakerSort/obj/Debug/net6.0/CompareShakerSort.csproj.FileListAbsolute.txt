@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\bin\Debug\net6.0\CompareShakerSort.exe
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\bin\Debug\net6.0\CompareShakerSort.deps.json
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\bin\Debug\net6.0\CompareShakerSort.runtimeconfig.json
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\bin\Debug\net6.0\CompareShakerSort.dll
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\bin\Debug\net6.0\CompareShakerSort.pdb
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.AssemblyInfo.cs
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.dll
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\refint\CompareShakerSort.dll
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.pdb
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\CompareShakerSort.genruntimeconfig.cache
+C:\Users\USER\source\repos\CompareShakerSort\CompareShakerSort\obj\Debug\net6.0\ref\CompareShakerSort.dll
